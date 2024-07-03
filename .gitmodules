@@ -1,0 +1,3 @@
+[submodule "Assets/Dependencies/Koyou/Kogine/Side"]
+	path = Assets/Dependencies/Koyou/Kogine/Side
+	url = git@github.com:Koyou-Game/Kogine.Side.git
